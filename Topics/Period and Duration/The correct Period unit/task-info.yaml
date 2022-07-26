@@ -1,0 +1,22 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: Period period = Period.of(2022, 2, 22);
+- text: Period period = Period.of(5, ChronoUnit.HOURS);
+- text: Period period = new Period(1995, 5, 23);
+- text: Period period = Period.parse("1995-23-5");
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/20784#comment
+status: Solved
+record: -1

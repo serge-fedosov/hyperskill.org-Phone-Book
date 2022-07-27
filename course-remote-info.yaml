@@ -37,6 +37,8 @@ topics:
     theory_id: 20084
   - title: Data structures
     theory_id: 16927
+  - title: Immutability
+    theory_id: 7929
   - title: Computer programming
     theory_id: 8739
   - title: Paradigms
@@ -101,14 +103,20 @@ topics:
     theory_id: 3511
   - title: Arrays as parameters
     theory_id: 3594
+  - title: Iterating over arrays
+    theory_id: 3602
   - title: Characters
     theory_id: 3514
   - title: String
     theory_id: 3523
+  - title: Final variables
+    theory_id: 7427
   - title: Errors in programs
     theory_id: 3536
   - title: What is an exception
     theory_id: 3497
+  - title: NPE
+    theory_id: 1945
   - title: Introduction to OOP
     theory_id: 3614
   - title: Package
@@ -143,6 +151,26 @@ topics:
     theory_id: 3652
   - title: IntelliJ IDEA
     theory_id: 3801
+  - title: LocalTime
+    theory_id: 3593
+  - title: LocalDate
+    theory_id: 3592
+  - title: LocalDateTime
+    theory_id: 3617
+  - title: Introduction to generic programming
+    theory_id: 3492
+  - title: Generics and Object
+    theory_id: 3493
+  - title: What are collections
+    theory_id: 3770
+  - title: The Collections Framework overview
+    theory_id: 3624
+  - title: ArrayList
+    theory_id: 3567
+  - title: The List interface
+    theory_id: 3581
+  - title: Instant
+    theory_id: 21233
   - title: Searching problem
     theory_id: 15894
   - title: Linear search
@@ -159,12 +187,32 @@ topics:
     theory_id: 3599
   - title: Inheritance
     theory_id: 3583
+  - title: Protected modifier
+    theory_id: 6692
+  - title: Referencing subclass objects
+    theory_id: 3585
+  - title: The Object class
+    theory_id: 3596
   - title: Multiple constructors
     theory_id: 3538
   - title: The keyword super
     theory_id: 3588
   - title: Objects
     theory_id: 4727
+  - title: Static members
+    theory_id: 3534
+  - title: Annotations basics
+    theory_id: 3622
+  - title: Hiding and overriding
+    theory_id: 3572
+  - title: Polymorphism
+    theory_id: 3587
+  - title: Interface
+    theory_id: 3615
+  - title: Boxing and unboxing
+    theory_id: 3595
+  - title: Comparable
+    theory_id: 14456
   1:
   - title: Floating-point types
     theory_id: 3517

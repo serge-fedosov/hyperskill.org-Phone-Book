@@ -6,3 +6,12 @@ content:
 - Recursion
 - Instant
 - Functional data processing with streams
+- Stream filtering
+- Infinite streams
+- Reduction methods
+- Map and flatMap
+- Streams of primitives
+- Taking elements
+- Collectors
+- Grouping collectors
+- Stream pipelines

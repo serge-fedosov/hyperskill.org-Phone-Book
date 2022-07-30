@@ -15,3 +15,5 @@ content:
 - Collectors
 - Grouping collectors
 - Stream pipelines
+- Parallel streams
+- Currying
